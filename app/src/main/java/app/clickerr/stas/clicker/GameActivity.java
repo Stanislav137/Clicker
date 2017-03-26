@@ -18,6 +18,8 @@ public class GameActivity extends AppCompatActivity {
     private Button btn8;
     private Button btn9;
 
+    private int test;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
