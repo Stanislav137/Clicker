@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
     private int g;
     private int abcd;
+    private int abcfd;
+    private int abcdf;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
