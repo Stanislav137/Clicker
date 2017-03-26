@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnHard;
 
     private int g;
-
+    private int gas;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
