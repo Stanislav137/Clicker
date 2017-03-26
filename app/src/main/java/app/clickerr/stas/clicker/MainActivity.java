@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
     private Button btnMedium;
     private Button btnHard;
 
+    private int g;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
